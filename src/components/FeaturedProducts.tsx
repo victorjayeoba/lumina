@@ -24,7 +24,7 @@ const products = [
   {
     id: 4,
     name: "Hydra Complex",
-    image: "https://images.pexels.com/photos/4465833/pexels-photo-4465833.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1589556165541-4254aa9cfb39?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     benefit: "24-hour moisture lock technology"
   },
   {
